@@ -7,7 +7,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 body {
     background: #1e1e1e; /* Dark background */
-    color: #fff; /* White text */
+    color: #ffffff; /* White text */
     scroll-behavior: smooth; /* Smooth scrolling */
 }
 
