@@ -6,15 +6,15 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-    background: #lelele; /* Dark background */
-    color: #fff; /* White text */
+    background: #ffffff; /* White background */
+    color: #000000; /* Black text */
     scroll-behavior: smooth; /* Smooth scrolling */
 }
 
 /* Header Styles */
 header {
     background: #333; /* Dark grey background */
-    color: #fff; /* White text */
+    color: #ffffff; /* White text */
     padding: 50px 0;
     text-align: center;
 }
@@ -43,13 +43,13 @@ section:nth-of-type(even) {
 }
 
 .w3-text-light-grey {
-    color: #00ffff; /* Dark red text */
+    color: #00ffff; /* Aqua text */
 }
 
 /* Button Styles */
 .w3-button.w3-light-grey {
     background-color: #444; /* Dark grey button background */
-    color: #fff; /* White text */
+    color: #ffffff; /* White text */
 }
 
 /* Navbar and Sidebar */
@@ -71,14 +71,14 @@ section:nth-of-type(even) {
 /* Footer Styles */
 footer {
     background: #333; /* Dark grey background */
-    color: #fff; /* White text */
+    color: #ffffff; /* White text */
     text-align: center;
     padding: 10px 0;
 }
 
 /* Hover Effects */
 .w3-bar-item.w3-button.w3-hover-black:hover {
-    background-color: #00ffff; /* Dark red on hover */
+    background-color: #00ffff; /* Aqua on hover */
 }
 
 .w3-hover-opacity:hover {
@@ -89,7 +89,7 @@ footer {
 form .w3-input {
     background: #333;
     border: none;
-    color: #fff;
+    color: #ffffff;
     padding: 12px;
     margin: 8px 0;
     width: 100%;
@@ -97,7 +97,7 @@ form .w3-input {
 
 form .w3-button {
     background: #444;
-    color: #fff;
+    color: #ffffff;
     padding: 12px;
     border: none;
 }
