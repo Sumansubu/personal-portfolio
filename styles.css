@@ -43,7 +43,7 @@ section:nth-of-type(even) {
 }
 
 .w3-text-light-grey {
-    color: #d9534f; /* Dark red text */
+    color: #000080; /* Dark red text */
 }
 
 /* Button Styles */
