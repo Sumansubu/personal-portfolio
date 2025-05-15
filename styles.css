@@ -6,8 +6,8 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-    background: #lelele; /* Dark background */
-    color: #ffffff; /* White text */
+    background: #ffffff; /* Dark background */
+    color: #lelele; /* White text */
     scroll-behavior: smooth; /* Smooth scrolling */
 }
 
