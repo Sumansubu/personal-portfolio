@@ -6,8 +6,8 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-    background: #ffffff; /* Dark background */
-    color: #lelele; /* White text */
+    background: #lelele; /* Dark background */
+    color: #fff; /* White text */
     scroll-behavior: smooth; /* Smooth scrolling */
 }
 
@@ -78,7 +78,7 @@ footer {
 
 /* Hover Effects */
 .w3-bar-item.w3-button.w3-hover-black:hover {
-    background-color: #d9534f; /* Dark red on hover */
+    background-color: #00ffff; /* Dark red on hover */
 }
 
 .w3-hover-opacity:hover {
